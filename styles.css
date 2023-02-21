@@ -1,0 +1,43 @@
+body {
+  background-color: #2b2b2b;
+  color: #e2e2e2;
+  font-family: 'IBM Plex Mono';
+  font-weight: lighter;
+  height: 100dvh;
+  display: flex;
+  margin: 0;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: smaller;
+}
+
+a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: inherit;
+}
+
+.text {
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+.orange {
+  color: #D6786A;
+}
+
+.green {
+  color: #699557;
+}
+
+.blue {
+  color: #5B9AD1;
+}
+
+.inset {
+  padding-left: 2em;
+}
